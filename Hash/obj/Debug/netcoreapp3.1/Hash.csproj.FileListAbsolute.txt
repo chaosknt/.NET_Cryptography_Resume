@@ -1,0 +1,13 @@
+C:\Users\mar\source\repos\Cryptography\Hash\bin\Debug\netcoreapp3.1\Hash.exe
+C:\Users\mar\source\repos\Cryptography\Hash\bin\Debug\netcoreapp3.1\Hash.deps.json
+C:\Users\mar\source\repos\Cryptography\Hash\bin\Debug\netcoreapp3.1\Hash.runtimeconfig.json
+C:\Users\mar\source\repos\Cryptography\Hash\bin\Debug\netcoreapp3.1\Hash.runtimeconfig.dev.json
+C:\Users\mar\source\repos\Cryptography\Hash\bin\Debug\netcoreapp3.1\Hash.dll
+C:\Users\mar\source\repos\Cryptography\Hash\bin\Debug\netcoreapp3.1\Hash.pdb
+C:\Users\mar\source\repos\Cryptography\Hash\obj\Debug\netcoreapp3.1\Hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mar\source\repos\Cryptography\Hash\obj\Debug\netcoreapp3.1\Hash.AssemblyInfoInputs.cache
+C:\Users\mar\source\repos\Cryptography\Hash\obj\Debug\netcoreapp3.1\Hash.AssemblyInfo.cs
+C:\Users\mar\source\repos\Cryptography\Hash\obj\Debug\netcoreapp3.1\Hash.csproj.CoreCompileInputs.cache
+C:\Users\mar\source\repos\Cryptography\Hash\obj\Debug\netcoreapp3.1\Hash.dll
+C:\Users\mar\source\repos\Cryptography\Hash\obj\Debug\netcoreapp3.1\Hash.pdb
+C:\Users\mar\source\repos\Cryptography\Hash\obj\Debug\netcoreapp3.1\Hash.genruntimeconfig.cache

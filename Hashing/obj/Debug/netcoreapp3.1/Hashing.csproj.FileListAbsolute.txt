@@ -1,0 +1,14 @@
+C:\Users\mar\source\repos\Cryptography\Hashing\bin\Debug\netcoreapp3.1\Hashing.exe
+C:\Users\mar\source\repos\Cryptography\Hashing\bin\Debug\netcoreapp3.1\Hashing.deps.json
+C:\Users\mar\source\repos\Cryptography\Hashing\bin\Debug\netcoreapp3.1\Hashing.runtimeconfig.json
+C:\Users\mar\source\repos\Cryptography\Hashing\bin\Debug\netcoreapp3.1\Hashing.runtimeconfig.dev.json
+C:\Users\mar\source\repos\Cryptography\Hashing\bin\Debug\netcoreapp3.1\Hashing.dll
+C:\Users\mar\source\repos\Cryptography\Hashing\bin\Debug\netcoreapp3.1\Hashing.pdb
+C:\Users\mar\source\repos\Cryptography\Hashing\obj\Debug\netcoreapp3.1\Hashing.csproj.AssemblyReference.cache
+C:\Users\mar\source\repos\Cryptography\Hashing\obj\Debug\netcoreapp3.1\Hashing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mar\source\repos\Cryptography\Hashing\obj\Debug\netcoreapp3.1\Hashing.AssemblyInfoInputs.cache
+C:\Users\mar\source\repos\Cryptography\Hashing\obj\Debug\netcoreapp3.1\Hashing.AssemblyInfo.cs
+C:\Users\mar\source\repos\Cryptography\Hashing\obj\Debug\netcoreapp3.1\Hashing.csproj.CoreCompileInputs.cache
+C:\Users\mar\source\repos\Cryptography\Hashing\obj\Debug\netcoreapp3.1\Hashing.dll
+C:\Users\mar\source\repos\Cryptography\Hashing\obj\Debug\netcoreapp3.1\Hashing.pdb
+C:\Users\mar\source\repos\Cryptography\Hashing\obj\Debug\netcoreapp3.1\Hashing.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VTiiqD2BhY/Y9v3JVnhQXldThyWL2/IW75QltnM3IyFXn2G6WqFrmSwZqZNeZOx8CwmP6TuhseRZS+K2KSjLOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mar\\source\\repos\\Cryptography\\ProtectedDataExample\\ProtectedDataExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mar\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\mar\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

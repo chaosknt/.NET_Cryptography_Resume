@@ -1,0 +1,14 @@
+C:\Users\mar\source\repos\Cryptography\HMAC\bin\Debug\netcoreapp3.1\HMAC.exe
+C:\Users\mar\source\repos\Cryptography\HMAC\bin\Debug\netcoreapp3.1\HMAC.deps.json
+C:\Users\mar\source\repos\Cryptography\HMAC\bin\Debug\netcoreapp3.1\HMAC.runtimeconfig.json
+C:\Users\mar\source\repos\Cryptography\HMAC\bin\Debug\netcoreapp3.1\HMAC.runtimeconfig.dev.json
+C:\Users\mar\source\repos\Cryptography\HMAC\bin\Debug\netcoreapp3.1\HMAC.dll
+C:\Users\mar\source\repos\Cryptography\HMAC\bin\Debug\netcoreapp3.1\HMAC.pdb
+C:\Users\mar\source\repos\Cryptography\HMAC\obj\Debug\netcoreapp3.1\HMAC.csproj.AssemblyReference.cache
+C:\Users\mar\source\repos\Cryptography\HMAC\obj\Debug\netcoreapp3.1\HMAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mar\source\repos\Cryptography\HMAC\obj\Debug\netcoreapp3.1\HMAC.AssemblyInfoInputs.cache
+C:\Users\mar\source\repos\Cryptography\HMAC\obj\Debug\netcoreapp3.1\HMAC.AssemblyInfo.cs
+C:\Users\mar\source\repos\Cryptography\HMAC\obj\Debug\netcoreapp3.1\HMAC.csproj.CoreCompileInputs.cache
+C:\Users\mar\source\repos\Cryptography\HMAC\obj\Debug\netcoreapp3.1\HMAC.dll
+C:\Users\mar\source\repos\Cryptography\HMAC\obj\Debug\netcoreapp3.1\HMAC.pdb
+C:\Users\mar\source\repos\Cryptography\HMAC\obj\Debug\netcoreapp3.1\HMAC.genruntimeconfig.cache

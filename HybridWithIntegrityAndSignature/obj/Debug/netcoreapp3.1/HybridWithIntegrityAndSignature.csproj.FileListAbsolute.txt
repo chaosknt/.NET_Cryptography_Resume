@@ -1,0 +1,13 @@
+C:\Users\mar\source\repos\Cryptography\HybridWithIntegrityAndSignature\bin\Debug\netcoreapp3.1\HybridWithIntegrityAndSignature.exe
+C:\Users\mar\source\repos\Cryptography\HybridWithIntegrityAndSignature\bin\Debug\netcoreapp3.1\HybridWithIntegrityAndSignature.deps.json
+C:\Users\mar\source\repos\Cryptography\HybridWithIntegrityAndSignature\bin\Debug\netcoreapp3.1\HybridWithIntegrityAndSignature.runtimeconfig.json
+C:\Users\mar\source\repos\Cryptography\HybridWithIntegrityAndSignature\bin\Debug\netcoreapp3.1\HybridWithIntegrityAndSignature.runtimeconfig.dev.json
+C:\Users\mar\source\repos\Cryptography\HybridWithIntegrityAndSignature\bin\Debug\netcoreapp3.1\HybridWithIntegrityAndSignature.dll
+C:\Users\mar\source\repos\Cryptography\HybridWithIntegrityAndSignature\bin\Debug\netcoreapp3.1\HybridWithIntegrityAndSignature.pdb
+C:\Users\mar\source\repos\Cryptography\HybridWithIntegrityAndSignature\obj\Debug\netcoreapp3.1\HybridWithIntegrityAndSignature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mar\source\repos\Cryptography\HybridWithIntegrityAndSignature\obj\Debug\netcoreapp3.1\HybridWithIntegrityAndSignature.AssemblyInfoInputs.cache
+C:\Users\mar\source\repos\Cryptography\HybridWithIntegrityAndSignature\obj\Debug\netcoreapp3.1\HybridWithIntegrityAndSignature.AssemblyInfo.cs
+C:\Users\mar\source\repos\Cryptography\HybridWithIntegrityAndSignature\obj\Debug\netcoreapp3.1\HybridWithIntegrityAndSignature.csproj.CoreCompileInputs.cache
+C:\Users\mar\source\repos\Cryptography\HybridWithIntegrityAndSignature\obj\Debug\netcoreapp3.1\HybridWithIntegrityAndSignature.dll
+C:\Users\mar\source\repos\Cryptography\HybridWithIntegrityAndSignature\obj\Debug\netcoreapp3.1\HybridWithIntegrityAndSignature.pdb
+C:\Users\mar\source\repos\Cryptography\HybridWithIntegrityAndSignature\obj\Debug\netcoreapp3.1\HybridWithIntegrityAndSignature.genruntimeconfig.cache

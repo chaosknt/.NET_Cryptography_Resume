@@ -1,0 +1,14 @@
+C:\Users\mar\source\repos\Cryptography\PBKDF2\obj\Debug\netcoreapp3.1\PBKDF2.csproj.AssemblyReference.cache
+C:\Users\mar\source\repos\Cryptography\PBKDF2\obj\Debug\netcoreapp3.1\PBKDF2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mar\source\repos\Cryptography\PBKDF2\obj\Debug\netcoreapp3.1\PBKDF2.AssemblyInfoInputs.cache
+C:\Users\mar\source\repos\Cryptography\PBKDF2\obj\Debug\netcoreapp3.1\PBKDF2.AssemblyInfo.cs
+C:\Users\mar\source\repos\Cryptography\PBKDF2\obj\Debug\netcoreapp3.1\PBKDF2.csproj.CoreCompileInputs.cache
+C:\Users\mar\source\repos\Cryptography\PBKDF2\bin\Debug\netcoreapp3.1\PBKDF2.exe
+C:\Users\mar\source\repos\Cryptography\PBKDF2\bin\Debug\netcoreapp3.1\PBKDF2.deps.json
+C:\Users\mar\source\repos\Cryptography\PBKDF2\bin\Debug\netcoreapp3.1\PBKDF2.runtimeconfig.json
+C:\Users\mar\source\repos\Cryptography\PBKDF2\bin\Debug\netcoreapp3.1\PBKDF2.runtimeconfig.dev.json
+C:\Users\mar\source\repos\Cryptography\PBKDF2\bin\Debug\netcoreapp3.1\PBKDF2.dll
+C:\Users\mar\source\repos\Cryptography\PBKDF2\bin\Debug\netcoreapp3.1\PBKDF2.pdb
+C:\Users\mar\source\repos\Cryptography\PBKDF2\obj\Debug\netcoreapp3.1\PBKDF2.dll
+C:\Users\mar\source\repos\Cryptography\PBKDF2\obj\Debug\netcoreapp3.1\PBKDF2.pdb
+C:\Users\mar\source\repos\Cryptography\PBKDF2\obj\Debug\netcoreapp3.1\PBKDF2.genruntimeconfig.cache

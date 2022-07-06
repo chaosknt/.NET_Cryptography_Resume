@@ -1,0 +1,14 @@
+C:\Users\mar\source\repos\Cryptography\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.exe
+C:\Users\mar\source\repos\Cryptography\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.deps.json
+C:\Users\mar\source\repos\Cryptography\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.runtimeconfig.json
+C:\Users\mar\source\repos\Cryptography\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.runtimeconfig.dev.json
+C:\Users\mar\source\repos\Cryptography\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.dll
+C:\Users\mar\source\repos\Cryptography\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.pdb
+C:\Users\mar\source\repos\Cryptography\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.csproj.AssemblyReference.cache
+C:\Users\mar\source\repos\Cryptography\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mar\source\repos\Cryptography\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\mar\source\repos\Cryptography\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.AssemblyInfo.cs
+C:\Users\mar\source\repos\Cryptography\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mar\source\repos\Cryptography\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.dll
+C:\Users\mar\source\repos\Cryptography\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.pdb
+C:\Users\mar\source\repos\Cryptography\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.genruntimeconfig.cache
