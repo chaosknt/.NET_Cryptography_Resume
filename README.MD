@@ -1,4 +1,4 @@
- mayor Antropia = contraseña mas dificil de violar
+ mayor Antropia = contraseÃ±a mas dificil de violar
 
 
 # Hashing: One wayoperation == > Irreversible
@@ -18,7 +18,7 @@ key is needed
 
 ## Salt
 
-Palabra random que se agrega a la contraseña antes de cifrarla, agregando
+Palabra random que se agrega a la contraseÃ±a antes de cifrarla, agregando
 entropia. Recomendado de 64 bits u 8 bytes
 
 ## PBKDF2: Pasword based key derivation function
@@ -65,10 +65,6 @@ y con la palabra secreta descifra el mensaje
 Funcionan al reves:
 Public key => Verify signature
 private key => sign message
-
-
-# Hybrid
-
 
 # Security Concepts
 
